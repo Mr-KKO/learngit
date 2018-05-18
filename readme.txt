@@ -6,5 +6,5 @@ haha~~~~~~~~~~~~~~
 create a new branch 'dev' in learngit.
 create a new branch "feature1" in learngit ...
 new branch 'dev' *-* 
-today is friday.
-lalallalalalallalal
+lalallalalalallalallalalla
+today is friday!
