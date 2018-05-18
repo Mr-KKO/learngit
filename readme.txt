@@ -5,4 +5,5 @@ hello world !!
 haha~~~~~~~~~~~~~~
 create a new branch 'dev' in learngit.
 create a new branch "feature1" in learngit ...
-new branch 'dev'
+new branch 'dev' *-* |)
+
